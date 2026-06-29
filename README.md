@@ -24,7 +24,7 @@ Telegram botunuzu adım adım oluşturun ve projelerinize entegre edin.
 
 1. Telegram'ı açın
 2. Arama çubuğuna **@BotFather** yazın
-3. BotFather'ı bulup tıklayın
+3. [BotFather](https://t.me/BotFather)'ı bulup tıklayın
 4. **Start** butonuna basın
 
 ### Adım 2: Yeni Bot Oluşturun
@@ -54,7 +54,7 @@ BotFather size bir token verecek:
 
 Zaten bir botunuz varsa:
 
-1. **@BotFather**'a gidin
+1. [BotFather](https://t.me/BotFather)'a gidin
 2. `/mybot` komutunu yazın
 3. Botunuzu seçin
 4. **API Token** butonuna basın
@@ -74,7 +74,7 @@ Zaten bir botunuz varsa:
 
 ### Yöntem 2: Kodsuz
 
-1. **@userinfobot**'a gidin
+1. [@userinfobot](https://t.me/userinfobot)'a gidin
 2. `/start` yazın
 3. Chat ID'niz gösterilecek
 
@@ -335,9 +335,18 @@ Token'ın doğru olduğundan emin olun. BotFather'dan yeni token alabilirsiniz.
 
 ## 📚 Faydalı Linkler
 
-- [Telegram Bot API Dokümantasyonu](https://core.telegram.org/bots/api)
-- [BotFather](https://t.me/BotFather)
-- [Telegram Notify Kütüphanesi](https://github.com/yasar-afk/telegram-notify)
+### Telegram
+- [Telegram İndir](https://telegram.org/download) - Telegram'ı indirin
+- [BotFather](https://t.me/BotFather) - Bot oluşturun ve yönetin
+- [@userinfobot](https://t.me/userinfobot) - Chat ID'nizi öğrenin
+- [@RawDataBot](https://t.me/RawDataBot) - Detaylı chat bilgisi
+- [Telegram Bot API](https://core.telegram.org/bots/api) - Resmi API dokümantasyonu
+- [Bot API Utils](https://t.me/botutils) - Bot araçları
+
+### Bu Proje
+- [Telegram Notify](https://github.com/yasar-afk/telegram-notify) - Python kütüphanesi
+- [Telegram Bot Setup](https://github.com/yasar-afk/telegram-bot-setup) - Bu rehber
+- [GitHub](https://github.com/yasar-afk) - Diğer projelerim
 
 ---
 
